@@ -3,11 +3,11 @@
 ## Education
 
 **Xi'an Jiaotong University**
-- Bachelor of Science in Computer Science and Technology
+- Bachelor of Computer Science and Technology
 - Graduated: 2023
 
 **Southern University of Science and Technology**
-- Master of Science in [Your Field of Study]
+- Master of Science in Electronic information
 - Start Date: 2024
 
 ## Experience
